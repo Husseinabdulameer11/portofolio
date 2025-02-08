@@ -2,15 +2,23 @@ document.addEventListener("DOMContentLoaded", function () {
     const themeToggle = document.getElementById("theme-toggle");
     const repoList = document.getElementById("repo-list");
     
+    // Load theme from local storage
+    if (localStorage.getItem("theme") === "dark") {
+        document.body.classList.add("dark-mode");
+        themeToggle.textContent = "Light Mode";
+    }
+    
     // Theme Toggle Logic
     themeToggle.addEventListener("click", function () {
         document.body.classList.toggle("dark-mode");
-        themeToggle.textContent = document.body.classList.contains("dark-mode") ? "Light Mode" : "Dark Mode";
+        const isDark = document.body.classList.contains("dark-mode");
+        themeToggle.textContent = isDark ? "Light Mode" : "Dark Mode";
+        localStorage.setItem("theme", isDark ? "dark" : "light");
     });
     
     // Fetch GitHub Repositories
     async function fetchRepos() {
-        const username = "Husseinabdulameer11"; // Replace with your GitHub username
+        const username = "YOUR_GITHUB_USERNAME"; // Replace with your GitHub username
         try {
             const response = await fetch(`https://api.github.com/users/${username}/repos?sort=updated&per_page=6`);
             const repos = await response.json();
