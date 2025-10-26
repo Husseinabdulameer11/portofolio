@@ -9,7 +9,7 @@ export default function ProjectDetail() {
 
   useEffect(() => {
     if (!id) return
-    fetch(`/api/projects/${id}`)
+  fetch(`https://portofolio-8whp.onrender.com/api/projects/${id}`)
       .then(r => r.json())
       .then(setProject)
       .catch((err) => console.error(err))
