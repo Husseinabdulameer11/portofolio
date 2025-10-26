@@ -9,12 +9,12 @@ export default function Projects() {
   const { t } = useLang()
   const [projects, setProjects] = useState([])
 
-  useEffect(() => {
-    fetch('/api/projects')
-      .then(r => r.json())
-      .then(setProjects)
-      .catch(err => console.error(err))
-  }, [])
+    useEffect(() => {
+      fetch('https://portofolio-8whp.onrender.com/api/projects')
+        .then(r => r.json())
+        .then(setProjects)
+        .catch(err => console.error(err))
+    }, [])
 
   if (id) {
     return <ProjectDetail />
