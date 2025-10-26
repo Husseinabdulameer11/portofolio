@@ -7,7 +7,7 @@ const cors = require('cors');
 const app = express();
 // Enable CORS for Vercel frontend
 app.use(cors({
-  origin: 'https://portofolio-nu-gules-13.vercel.app'
+  origin: 'https://portofolio-hussein.vercel.app'
 }));
 const PORT = process.env.PORT || 3000;
 
