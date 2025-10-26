@@ -1,0 +1,44 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.*
+
+# VSCode settings
+.vscode/
+
+# Dependency directories
+client/node_modules/
+server/node_modules/
+
+# Production files
+*.local
+
+# Misc
+*.log
+*.cache
+
+# Ignore coverage
+coverage/
+
+# Ignore by package managers
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Ignore output from gh-pages
+gh-pages/
