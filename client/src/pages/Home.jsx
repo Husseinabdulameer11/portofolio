@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 import { useLang } from '../i18n.jsx'
 
 export default function Home() {
