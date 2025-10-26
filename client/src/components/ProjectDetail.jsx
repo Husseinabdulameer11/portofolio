@@ -18,10 +18,14 @@ export default function ProjectDetail() {
   if (!project) return <div>Loading...</div>
 
   return (
-    <div className="project-detail">
-      <h2>{project.name}</h2>
-      <p>{(project.long && project.long[lang]) || project.long?.en}</p>
-      <div className="media">
+    <article className="project-detail-page">
+      <header className="project-header">
+        <h1>{project.name}</h1>
+      </header>
+      <section className="project-description">
+        <p>{(project.long && project.long[lang]) || project.long?.en}</p>
+      </section>
+      <section className="project-media">
         {project.media && project.media.map((m, i) => (
           m.type === 'image' ? (
             <img key={i} src={`/${m.src}`} alt={`${project.name} ${i}`} />
@@ -29,11 +33,11 @@ export default function ProjectDetail() {
             <video key={i} controls src={m.src} />
           ) : null
         ))}
-      </div>
-      <div className="links">
+      </section>
+      <section className="project-links">
         {project.links?.repo && <a href={project.links.repo} target="_blank" rel="noreferrer">Repo</a>}
         {project.links?.live && <a href={project.links.live} target="_blank" rel="noreferrer">Live</a>}
-      </div>
-    </div>
+      </section>
+    </article>
   )
 }
