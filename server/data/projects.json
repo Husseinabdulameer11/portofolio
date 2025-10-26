@@ -13,7 +13,7 @@
       "ar": "موقع محفظة يستعرض مهاراتي ومشاريعي ومعلومات الاتصال. مبني باستخدام React للواجهة و Express للخلفية."
     },
     "media": [
-      { "type": "image", "src": "/vglang.png" },
+      { "type": "image", "src": "vglang.png" },
       { "type": "image", "src": "/project1-2.jpg" },
       { "type": "video", "src": "/project1-demo.mp4" }
     ],
@@ -36,7 +36,7 @@
       "ar": "يتضمن إنشاء وتعديل المهام والأولويات والتخزين الدائم في المتصفح. مفيد لعرض التعامل مع الحالة."
     },
     "media": [
-      { "type": "image", "src": "/mob3000.png" },
+      { "type": "image", "src": "mob3000.png" },
       { "type": "video", "src": "/project2-demo.mp4" }
     ],
     "links": {
@@ -58,7 +58,7 @@
       "ar": "يتضمن إنشاء وتعديل المهام والأولويات والتخزين الدائم في المتصفح. مفيد لعرض التعامل مع الحالة."
     },
     "media": [
-      { "type": "image", "src": "/logonav.png" },
+      { "type": "image", "src": "logonav.png" },
       { "type": "video", "src": "/project2-demo.mp4" }
     ],
     "links": {
@@ -80,7 +80,7 @@
       "ar": "يتضمن إنشاء وتعديل المهام والأولويات والتخزين الدائم في المتصفح. مفيد لعرض التعامل مع الحالة."
     },
     "media": [
-      { "type": "image", "src": "/resturant.png" },
+      { "type": "image", "src": "resturant.png" },
       { "type": "video", "src": "/project2-demo.mp4" }
     ],
     "links": {
@@ -102,7 +102,7 @@
       "ar": "يتضمن إنشاء وتعديل المهام والأولويات والتخزين الدائم في المتصفح. مفيد لعرض التعامل مع الحالة."
     },
     "media": [
-      { "type": "image", "src": "/trafic.png" },
+      { "type": "image", "src": "trafic.png" },
       { "type": "video", "src": "/project2-demo.mp4" }
     ],
     "links": {
@@ -123,7 +123,7 @@
       "ar": "يتضمن إنشاء وتعديل المهام والأولويات والتخزين الدائم في المتصفح. مفيد لعرض التعامل مع الحالة."
     },
     "media": [
-      { "type": "image", "src": "/paint.png" },
+      { "type": "image", "src": "paint.png" },
       { "type": "video", "src": "/project2-demo.mp4" }
     ],
     "links": {
