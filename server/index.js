@@ -1,8 +1,14 @@
+
 const path = require('path');
 const express = require('express');
 const fs = require('fs');
+const cors = require('cors');
 
 const app = express();
+// Enable CORS for Vercel frontend
+app.use(cors({
+  origin: 'https://portofolio-nu-gules-13.vercel.app'
+}));
 const PORT = process.env.PORT || 3000;
 
 // Simple JSON data loader
