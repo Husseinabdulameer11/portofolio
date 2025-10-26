@@ -24,7 +24,7 @@ export default function ProjectDetail() {
       <div className="media">
         {project.media && project.media.map((m, i) => (
           m.type === 'image' ? (
-            <img key={i} src={m.src} alt={`${project.name} ${i}`} />
+            <img key={i} src={`/${m.src}`} alt={`${project.name} ${i}`} />
           ) : m.type === 'video' ? (
             <video key={i} controls src={m.src} />
           ) : null
