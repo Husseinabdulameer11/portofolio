@@ -14,13 +14,12 @@ export default function Home() {
       <div className="hero-inner">
         <div className="hero-left">
           <div className="eyebrow">Designer • Developer</div>
-          <h1 className="hero-title">Designing for
-            <br />
-            Amazing People
+          <h1 className="hero-title">
+            {lang === 'ar' ? 'حسين عبد الامير' : 'Hussein Abdul-Ameer'}
           </h1>
           <p className="hero-sub">{aboutTexts[lang]}</p>
           <div className="hero-cta">
-            <a className="btn primary" href="#contact">Hire Me</a>
+            <Link className="btn primary" to="/contact">Hire Me</Link>
             <div className="clients">1K+ Clients</div>
           </div>
         </div>
