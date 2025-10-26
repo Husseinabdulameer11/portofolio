@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "name": "The Vg programming language",
+    "short": {
+  "en": "A multiparadigm programming language(procedual and object-oriented), with tools like package manager, documentation generator, IDE,  and REPL.",
+  "no": "Et flerparadigme programmeringsspråk (proseduralt og objektorientert), med verktøy som pakkebehandler, dokumentasjonsgenerator, IDE og REPL.",
+  "ar": "لغة برمجة متعددة الأنماط (إجرائية وكائنية)، مع أدوات مثل مدير الحزم، مولد التوثيق، بيئة تطوير متكاملة، وبيئة تفاعلية."
+    },
+    "long": {
+      "en": "A responsive portfolio site showing my skills, projects, and contact info. Built with React on the frontend and Express on the backend.",
+      "no": "En responsiv porteføljeside som viser ferdighetene mine, prosjekter og kontaktinformasjon. Bygget med React på frontend og Express på backend.",
+      "ar": "موقع محفظة يستعرض مهاراتي ومشاريعي ومعلومات الاتصال. مبني باستخدام React للواجهة و Express للخلفية."
+    },
+    "media": [
+      { "type": "image", "src": "/vglang.png" },
+      { "type": "image", "src": "/project1-2.jpg" },
+      { "type": "video", "src": "/project1-demo.mp4" }
+    ],
+    "links": {
+      "repo": "https://github.com/vg-lang/vg-lang",
+      "live": ""
+    }
+  },
+  {
+    "id": 2,
+    "name": "Chess training android app",
+    "short": {
+      "en": "An android app for training chess skills.",
+      "no": "En android-app for å trene sjakkferdigheter.",
+      "ar": "تطبيق أندرويد لتدريب مهارات الشطرنج."
+    },
+    "long": {
+      "en": "Implements task creation, editing, priorities, and persistent storage in the browser. Useful for demoing state handling.",
+      "no": "Implementerer opprettelse og redigering av oppgaver, prioriteringer og vedvarende lagring i nettleseren.",
+      "ar": "يتضمن إنشاء وتعديل المهام والأولويات والتخزين الدائم في المتصفح. مفيد لعرض التعامل مع الحالة."
+    },
+    "media": [
+      { "type": "image", "src": "/mob3000.png" },
+      { "type": "video", "src": "/project2-demo.mp4" }
+    ],
+    "links": {
+      "repo": "https://github.com/frigvid/mob3000-group11",
+      "live": ""
+    }
+  },
+  {
+    "id": 3,
+    "name": "Chess training react app",
+    "short": {
+      "en": "A react app for training chess skills.",
+      "no": "En react-app for å trene sjakkferdigheter.",
+      "ar": "تطبيق React لتدريب مهارات الشطرنج."
+    },
+    "long": {
+      "en": "Implements task creation, editing, priorities, and persistent storage in the browser. Useful for demoing state handling.",
+      "no": "Implementerer opprettelse og redigering av oppgaver, prioriteringer og vedvarende lagring i nettleseren.",
+      "ar": "يتضمن إنشاء وتعديل المهام والأولويات والتخزين الدائم في المتصفح. مفيد لعرض التعامل مع الحالة."
+    },
+    "media": [
+      { "type": "image", "src": "/logonav.png" },
+      { "type": "video", "src": "/project2-demo.mp4" }
+    ],
+    "links": {
+      "repo": "",
+      "live": "https://app-2000-gruppe04.vercel.app/"
+    }
+  },
+  {
+    "id": 4,
+    "name": "resturant page from hackathon",
+    "short": {
+      "en": "A resturant website made during a hackathon contest.",
+      "no": "En restaurant nettside laget under en hackathon konkurranse.",
+      "ar": "موقع مطعم تم إنشاؤه خلال مسابقة هاكاثون."
+    },
+    "long": {
+      "en": "Implements task creation, editing, priorities, and persistent storage in the browser. Useful for demoing state handling.",
+      "no": "Implementerer opprettelse og redigering av oppgaver, prioriteringer og vedvarende lagring i nettleseren.",
+      "ar": "يتضمن إنشاء وتعديل المهام والأولويات والتخزين الدائم في المتصفح. مفيد لعرض التعامل مع الحالة."
+    },
+    "media": [
+      { "type": "image", "src": "/resturant.png" },
+      { "type": "video", "src": "/project2-demo.mp4" }
+    ],
+    "links": {
+      "repo": "https://github.com/Husseinabdulameer11/hackathon-2023",
+      "live": ""
+    }
+  },
+  {
+    "id": 5,
+    "name": "traffic simulation made in java",
+    "short": {
+      "en": "A java application for simulating traffic flow.",
+      "no": "En java-applikasjon for å simulere trafikksflyt.",
+      "ar": "تطبيق Java لمحاكاة تدفق حركة المرور."
+    },
+    "long": {
+      "en": "Implements task creation, editing, priorities, and persistent storage in the browser. Useful for demoing state handling.",
+      "no": "Implementerer opprettelse og redigering av oppgaver, prioriteringer og vedvarende lagring i nettleseren.",
+      "ar": "يتضمن إنشاء وتعديل المهام والأولويات والتخزين الدائم في المتصفح. مفيد لعرض التعامل مع الحالة."
+    },
+    "media": [
+      { "type": "image", "src": "/trafic.png" },
+      { "type": "video", "src": "/project2-demo.mp4" }
+    ],
+    "links": {
+      "repo": "hhttps://github.com/Husseinabdulameer11/Traffic-simulator",
+      "live": ""
+    }
+  },{
+    "id": 6,
+    "name": "paint application made in java",
+    "short": {
+      "en": "A java application for drawing.",
+      "no": "En java-applikasjon for å tegne.",
+      "ar": "تطبيق Java للرسم."
+    },
+    "long": {
+      "en": "Implements task creation, editing, priorities, and persistent storage in the browser. Useful for demoing state handling.",
+      "no": "Implementerer opprettelse og redigering av oppgaver, prioriteringer og vedvarende lagring i nettleseren.",
+      "ar": "يتضمن إنشاء وتعديل المهام والأولويات والتخزين الدائم في المتصفح. مفيد لعرض التعامل مع الحالة."
+    },
+    "media": [
+      { "type": "image", "src": "/paint.png" },
+      { "type": "video", "src": "/project2-demo.mp4" }
+    ],
+    "links": {
+      "repo": "https://github.com/Husseinabdulameer11/javaobligen",
+      "live": ""
+    }
+  }
+  
+]
