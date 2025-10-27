@@ -9,7 +9,6 @@ function Header() {
   const { lang, setLang, t } = useLang()
   return (
     <header className="site-header">
-      <div className="brand">MGR</div>
       <nav>
         <Link to="/">{t('home_title')}</Link>
         <Link to="/projects">{t('projects_title')}</Link>
