@@ -8,14 +8,12 @@
   "ar": "لغة برمجة متعددة الأنماط (إجرائية وكائنية)، مع أدوات مثل مدير الحزم، مولد التوثيق، بيئة تطوير متكاملة، وبيئة تفاعلية."
     },
     "long": {
-      "en": "A responsive portfolio site showing my skills, projects, and contact info. Built with React on the frontend and Express on the backend.",
-      "no": "En responsiv porteføljeside som viser ferdighetene mine, prosjekter og kontaktinformasjon. Bygget med React på frontend og Express på backend.",
-      "ar": "موقع محفظة يستعرض مهاراتي ومشاريعي ومعلومات الاتصال. مبني باستخدام React للواجهة و Express للخلفية."
+      "en": "Vg is a modern multiparadigm programming language supporting both procedural and object-oriented styles. It features a built-in package manager, documentation generator, integrated development environment (IDE), and an interactive REPL. Project has been used to make a Tetris clone, a pong clone and a BASIC interpreter.",
+      "no": "Vg er et moderne flerparadigme programmeringsspråk som støtter både prosedyre- og objektorienterte stiler. Det har en innebygd pakkebehandler, dokumentasjonsgenerator, integrert utviklingsmiljø (IDE) og en interaktiv REPL. Prosjektet har blitt brukt til å lage en Tetris-klone, en pong-klone og en BASIC-tolker.",
+      "ar": "Vg هي لغة برمجة حديثة متعددة الأنماط تدعم كل من الأساليب الإجرائية وكائنية التوجه. يتميز بمدير حزم مدمج، ومولد وثائق، وبيئة تطوير متكاملة (IDE)، وREPL تفاعلية. تم استخدام المشروع لإنشاء نسخة Tetris، ونسخة pong، ومترجم BASIC."
     },
     "media": [
-      { "type": "image", "src": "vglang.png" },
-      { "type": "image", "src": "/project1-2.jpg" },
-      { "type": "video", "src": "/project1-demo.mp4" }
+      { "type": "image", "src": "vglang.png" }
     ],
     "links": {
       "repo": "https://github.com/vg-lang/vg-lang",
@@ -31,13 +29,12 @@
       "ar": "تطبيق أندرويد لتدريب مهارات الشطرنج."
     },
     "long": {
-      "en": "Implements task creation, editing, priorities, and persistent storage in the browser. Useful for demoing state handling.",
-      "no": "Implementerer opprettelse og redigering av oppgaver, prioriteringer og vedvarende lagring i nettleseren.",
-      "ar": "يتضمن إنشاء وتعديل المهام والأولويات والتخزين الدائم في المتصفح. مفيد لعرض التعامل مع الحالة."
+      "en": "A feature-rich Android app designed to help users improve their chess skills. The app offers interactive exercises, progress tracking, and a variety of training modes, making it ideal for both beginners and advanced players seeking to sharpen their strategies.",
+      "no": "En funksjonsrik Android-app designet for å hjelpe brukere med å forbedre sjakkferdighetene sine. Appen tilbyr interaktive øvelser, fremdriftssporing og en rekke treningsmoduser, noe som gjør den ideell for både nybegynnere og avanserte spillere som ønsker å skjerpe strategiene sine.",
+      "ar": "تطبيق أندرويد غني بالميزات مصمم لمساعدة المستخدمين على تحسين مهاراتهم في الشطرنج. يقدم التطبيق تمارين تفاعلية، وتتبع التقدم، ومجموعة متنوعة من أوضاع التدريب، مما يجعله مثاليًا لكل من المبتدئين واللاعبين المتقدمين الذين يسعون إلى صقل استراتيجياتهم."
     },
     "media": [
-      { "type": "image", "src": "mob3000.png" },
-      { "type": "video", "src": "/project2-demo.mp4" }
+      { "type": "image", "src": "mob3000.png" }
     ],
     "links": {
       "repo": "https://github.com/frigvid/mob3000-group11",
@@ -53,13 +50,12 @@
       "ar": "تطبيق React لتدريب مهارات الشطرنج."
     },
     "long": {
-      "en": "Implements task creation, editing, priorities, and persistent storage in the browser. Useful for demoing state handling.",
-      "no": "Implementerer opprettelse og redigering av oppgaver, prioriteringer og vedvarende lagring i nettleseren.",
-      "ar": "يتضمن إنشاء وتعديل المهام والأولويات والتخزين الدائم في المتصفح. مفيد لعرض التعامل مع الحالة."
+      "en": "A web-based chess training platform built with React. Users can play and chat with friends, track their progress, and practice tactics in a user-friendly interface. The app emphasizes learning through practice and provides instant feedback on each move.",
+      "no": "En nettbasert sjakktreningsplattform bygget med React. Brukere kan spille og chatte med venner, følge med på fremdriften sin og øve på taktikker i et brukervennlig grensesnitt. Appen legger vekt på læring gjennom praksis og gir umiddelbar tilbakemelding på hvert trekk.",
+      "ar": "منصة تدريب الشطرنج المستندة إلى الويب المبنية باستخدام React. يمكن للمستخدمين اللعب والدردشة مع الأصدقاء وتتبع تقدمهم وممارسة التكتيكات في واجهة مستخدم سهلة الاستخدام. تركز التطبيق على التعلم من خلال الممارسة ويوفر ملاحظات فورية حول كل حركة."
     },
     "media": [
-      { "type": "image", "src": "logonav.png" },
-      { "type": "video", "src": "/project2-demo.mp4" }
+      { "type": "image", "src": "logonav.png" }
     ],
     "links": {
       "repo": "",
@@ -75,13 +71,12 @@
       "ar": "موقع مطعم تم إنشاؤه خلال مسابقة هاكاثون."
     },
     "long": {
-      "en": "Implements task creation, editing, priorities, and persistent storage in the browser. Useful for demoing state handling.",
-      "no": "Implementerer opprettelse og redigering av oppgaver, prioriteringer og vedvarende lagring i nettleseren.",
-      "ar": "يتضمن إنشاء وتعديل المهام والأولويات والتخزين الدائم في المتصفح. مفيد لعرض التعامل مع الحالة."
+      "en": "A responsive restaurant page created during a hackathon that lasted 24 hours, the stack used is php,mysql, and jquery.",
+      "no": "En responsiv restaurantside laget under en hackathon som varte i 24 timer, stakken som ble brukt er php,mysql og jquery.",
+      "ar": "صفحة مطعم متجاوبة تم إنشاؤها خلال هاكاثون استمر 24 ساعة، والتقنية المستخدمة هي php و mysql و jquery."
     },
     "media": [
-      { "type": "image", "src": "resturant.png" },
-      { "type": "video", "src": "/project2-demo.mp4" }
+      { "type": "image", "src": "resturant.png" }
     ],
     "links": {
       "repo": "https://github.com/Husseinabdulameer11/hackathon-2023",
@@ -97,13 +92,12 @@
       "ar": "تطبيق Java لمحاكاة تدفق حركة المرور."
     },
     "long": {
-      "en": "Implements task creation, editing, priorities, and persistent storage in the browser. Useful for demoing state handling.",
-      "no": "Implementerer opprettelse og redigering av oppgaver, prioriteringer og vedvarende lagring i nettleseren.",
-      "ar": "يتضمن إنشاء وتعديل المهام والأولويات والتخزين الدائم في المتصفح. مفيد لعرض التعامل مع الحالة."
+  "en": "A Java-based traffic simulation application that models realistic vehicle movement and intersection behavior. Users can visualize traffic flow, and experiment with different settings.",
+  "no": "En Java-basert trafikksimulator hvor brukere kan se trafikkflyt og eksperimentere med ulike innstillinger.",
+  "ar": "تطبيق جافا لمحاكاة حركة المرور، يتيح للمستخدمين تصور تدفق السيارات وتجربة إعدادات مختلفة."
     },
     "media": [
-      { "type": "image", "src": "trafic.png" },
-      { "type": "video", "src": "/project2-demo.mp4" }
+      { "type": "image", "src": "trafic.png" }
     ],
     "links": {
       "repo": "https://github.com/Husseinabdulameer11/Traffic-simulator",
@@ -118,13 +112,12 @@
       "ar": "تطبيق Java للرسم."
     },
     "long": {
-      "en": "Implements task creation, editing, priorities, and persistent storage in the browser. Useful for demoing state handling.",
-      "no": "Implementerer opprettelse og redigering av oppgaver, prioriteringer og vedvarende lagring i nettleseren.",
-      "ar": "يتضمن إنشاء وتعديل المهام والأولويات والتخزين الدائم في المتصفح. مفيد لعرض التعامل مع الحالة."
+  "en": "A simple yet powerful paint application built in Java. Users can draw shapes, color shapes, and stack shapes in different orders on a digital canvas. The project demonstrates core concepts of GUI programming and user interaction in Java.",
+  "no": "Et enkelt, men kraftig tegneprogram laget i Java. Brukere kan tegne former, fargelegge former og stable former i ulike rekkefølger på et digitalt lerret. Prosjektet demonstrerer sentrale konsepter innen GUI-programmering og brukerinteraksjon i Java.",
+  "ar": "تطبيق رسم بسيط وفعال مبني بلغة جافا. يمكن للمستخدمين رسم الأشكال، تلوين الأشكال، وترتيب الأشكال في أوامر مختلفة على لوحة رقمية. يوضح المشروع مفاهيم أساسية في برمجة واجهات المستخدم الرسومية والتفاعل مع المستخدم في جافا."
     },
     "media": [
-      { "type": "image", "src": "paint.png" },
-      { "type": "video", "src": "/project2-demo.mp4" }
+      { "type": "image", "src": "paint.png" }
     ],
     "links": {
       "repo": "https://github.com/Husseinabdulameer11/javaobligen",
