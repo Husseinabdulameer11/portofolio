@@ -21,7 +21,7 @@ export default function Home() {
           <p className="hero-sub">{aboutTexts[lang]}</p>
           <div className="hero-cta">
             <Link className="btn primary" to="/contact">Hire Me</Link>
-            <div className="clients">1K+ Clients</div>
+            <div className="clients">12 Years of Coding Experience</div>
           </div>
         </div>
         <div className="hero-right">
