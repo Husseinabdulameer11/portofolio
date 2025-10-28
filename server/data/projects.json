@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "The Vg programming language",
+    "short": {
+  "en": "A multiparadigm programming language(procedual and object-oriented), with tools like package manager, documentation generator, IDE,  and REPL.",
+  "no": "Et flerparadigme programmeringsspråk (proseduralt og objektorientert), med verktøy som pakkebehandler, dokumentasjonsgenerator, IDE og REPL.",
+  "ar": "لغة برمجة متعددة الأنماط (إجرائية وكائنية)، مع أدوات مثل مدير الحزم، مولد التوثيق، بيئة تطوير متكاملة، وبيئة تفاعلية."
+    },
+    "long": {
+      "en": "Vg is a modern multiparadigm programming language supporting both procedural and object-oriented styles. It features a built-in package manager, documentation generator, integrated development environment (IDE), and an interactive REPL. Project has been used to make a Tetris clone, a pong clone and a BASIC interpreter.",
+      "no": "Vg er et moderne flerparadigme programmeringsspråk som støtter både prosedyre- og objektorienterte stiler. Det har en innebygd pakkebehandler, dokumentasjonsgenerator, integrert utviklingsmiljø (IDE) og en interaktiv REPL. Prosjektet har blitt brukt til å lage en Tetris-klone, en pong-klone og en BASIC-tolker.",
+      "ar": "Vg هي لغة برمجة حديثة متعددة الأنماط تدعم كل من الأساليب الإجرائية وكائنية التوجه. يتميز بمدير حزم مدمج، ومولد وثائق، وبيئة تطوير متكاملة (IDE)، وREPL تفاعلية. تم استخدام المشروع لإنشاء نسخة Tetris، ونسخة pong، ومترجم BASIC."
+    },
+    "media": [
+      { "type": "image", "src": "vglang.png" }
+    ],
+    "links": {
+      "repo": "https://github.com/vg-lang/vg-lang",
+      "live": ""
+    }
+  },
+  {
+    "id": 2,
+    "name": "Chess training android app",
+    "short": {
+      "en": "An android app for training chess skills.",
+      "no": "En android-app for å trene sjakkferdigheter.",
+      "ar": "تطبيق أندرويد لتدريب مهارات الشطرنج."
+    },
+    "long": {
+      "en": "A feature-rich Android app designed to help users improve their chess skills. The app offers interactive exercises, progress tracking, and a variety of training modes, making it ideal for both beginners and advanced players seeking to sharpen their strategies.",
+      "no": "En funksjonsrik Android-app designet for å hjelpe brukere med å forbedre sjakkferdighetene sine. Appen tilbyr interaktive øvelser, fremdriftssporing og en rekke treningsmoduser, noe som gjør den ideell for både nybegynnere og avanserte spillere som ønsker å skjerpe strategiene sine.",
+      "ar": "تطبيق أندرويد غني بالميزات مصمم لمساعدة المستخدمين على تحسين مهاراتهم في الشطرنج. يقدم التطبيق تمارين تفاعلية، وتتبع التقدم، ومجموعة متنوعة من أوضاع التدريب، مما يجعله مثاليًا لكل من المبتدئين واللاعبين المتقدمين الذين يسعون إلى صقل استراتيجياتهم."
+    },
+    "media": [
+      { "type": "image", "src": "mob3000.png" }
+    ],
+    "links": {
+      "repo": "https://github.com/frigvid/mob3000-group11",
+      "live": ""
+    }
+  },
+  {
+    "id": 3,
+    "name": "Chess training react app",
+    "short": {
+      "en": "A react app for training chess skills.",
+      "no": "En react-app for å trene sjakkferdigheter.",
+      "ar": "تطبيق React لتدريب مهارات الشطرنج."
+    },
+    "long": {
+      "en": "A web-based chess training platform built with React. Users can play and chat with friends, track their progress, and practice tactics in a user-friendly interface. The app emphasizes learning through practice and provides instant feedback on each move.",
+      "no": "En nettbasert sjakktreningsplattform bygget med React. Brukere kan spille og chatte med venner, følge med på fremdriften sin og øve på taktikker i et brukervennlig grensesnitt. Appen legger vekt på læring gjennom praksis og gir umiddelbar tilbakemelding på hvert trekk.",
+      "ar": "منصة تدريب الشطرنج المستندة إلى الويب المبنية باستخدام React. يمكن للمستخدمين اللعب والدردشة مع الأصدقاء وتتبع تقدمهم وممارسة التكتيكات في واجهة مستخدم سهلة الاستخدام. تركز التطبيق على التعلم من خلال الممارسة ويوفر ملاحظات فورية حول كل حركة."
+    },
+    "media": [
+      { "type": "image", "src": "logonav.png" }
+    ],
+    "links": {
+      "repo": "",
+      "live": "https://app-2000-gruppe04.vercel.app/"
+    }
+  },
+  {
+    "id": 4,
+    "name": "resturant page from hackathon",
+    "short": {
+      "en": "A resturant website made during a hackathon contest.",
+      "no": "En restaurant nettside laget under en hackathon konkurranse.",
+      "ar": "موقع مطعم تم إنشاؤه خلال مسابقة هاكاثون."
+    },
+    "long": {
+      "en": "A responsive restaurant page created during a hackathon that lasted 24 hours, the stack used is php,mysql, and jquery.",
+      "no": "En responsiv restaurantside laget under en hackathon som varte i 24 timer, stakken som ble brukt er php,mysql og jquery.",
+      "ar": "صفحة مطعم متجاوبة تم إنشاؤها خلال هاكاثون استمر 24 ساعة، والتقنية المستخدمة هي php و mysql و jquery."
+    },
+    "media": [
+      { "type": "image", "src": "resturant.png" }
+    ],
+    "links": {
+      "repo": "https://github.com/Husseinabdulameer11/hackathon-2023",
+      "live": ""
+    }
+  },
+  {
+    "id": 5,
+    "name": "traffic simulation made in java",
+    "short": {
+      "en": "A java application for simulating traffic flow.",
+      "no": "En java-applikasjon for å simulere trafikksflyt.",
+      "ar": "تطبيق Java لمحاكاة تدفق حركة المرور."
+    },
+    "long": {
+  "en": "A Java-based traffic simulation application that models realistic vehicle movement and intersection behavior. Users can visualize traffic flow, and experiment with different settings.",
+  "no": "En Java-basert trafikksimulator hvor brukere kan se trafikkflyt og eksperimentere med ulike innstillinger.",
+  "ar": "تطبيق جافا لمحاكاة حركة المرور، يتيح للمستخدمين تصور تدفق السيارات وتجربة إعدادات مختلفة."
+    },
+    "media": [
+      { "type": "image", "src": "trafic.png" }
+    ],
+    "links": {
+      "repo": "https://github.com/Husseinabdulameer11/Traffic-simulator",
+      "live": ""
+    }
+  },{
+    "id": 6,
+    "name": "paint application made in java",
+    "short": {
+      "en": "A java application for drawing.",
+      "no": "En java-applikasjon for å tegne.",
+      "ar": "تطبيق Java للرسم."
+    },
+    "long": {
+  "en": "A simple yet powerful paint application built in Java. Users can draw shapes, color shapes, and stack shapes in different orders on a digital canvas. The project demonstrates core concepts of GUI programming and user interaction in Java.",
+  "no": "Et enkelt, men kraftig tegneprogram laget i Java. Brukere kan tegne former, fargelegge former og stable former i ulike rekkefølger på et digitalt lerret. Prosjektet demonstrerer sentrale konsepter innen GUI-programmering og brukerinteraksjon i Java.",
+  "ar": "تطبيق رسم بسيط وفعال مبني بلغة جافا. يمكن للمستخدمين رسم الأشكال، تلوين الأشكال، وترتيب الأشكال في أوامر مختلفة على لوحة رقمية. يوضح المشروع مفاهيم أساسية في برمجة واجهات المستخدم الرسومية والتفاعل مع المستخدم في جافا."
+    },
+    "media": [
+      { "type": "image", "src": "paint.png" }
+    ],
+    "links": {
+      "repo": "https://github.com/Husseinabdulameer11/javaobligen",
+      "live": ""
+    }
+  }
+  
+]
