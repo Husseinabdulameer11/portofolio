@@ -5,6 +5,7 @@ const fs = require('fs');
 const cors = require('cors');
 
 const app = express();
+
 // Configure CORS origin allowlist via environment variable or fallback to common dev origins
 // Example: ALLOWED_ORIGINS="https://portofolio-hussein.vercel.app,http://localhost:3000"
 const allowedOriginsEnv = process.env.ALLOWED_ORIGINS || 'https://portofolio-hussein.vercel.app,http://localhost:3000'
